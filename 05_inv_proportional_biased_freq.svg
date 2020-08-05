@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1685" height="1188">
 <style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
-<rect width="100%" height="100%" style="fill:black"></rect>
+<rect width="100%" height="100%" style="fill:white"></rect>
 <text transform="translate(10,118)" font-size="115" style="fill:rgb(202, 225, 31)">Согласуйте в репозитории</text>
 <text transform="translate(311,1112)" font-size="115" style="fill:rgb(66, 190, 113)">Заявочка в джире</text>
 <text transform="translate(219,978)" font-size="115" style="fill:rgb(62, 73, 137)">Бан</text>
