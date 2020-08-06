@@ -1,103 +1,157 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1685" height="1188">
-<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<svg xmlns="http://www.w3.org/2000/svg" width="28064" height="19848">
+<style>text{font-family:'Arial';font-weight:normal;font-style:normal;}</style>
 <rect width="100%" height="100%" style="fill:white"></rect>
-<text transform="translate(1271,1105)" font-size="200" style="fill:rgb(202, 225, 31)">ОК</text>
-<text transform="translate(386,1124)" font-size="200" style="fill:rgb(66, 190, 113)">PR</text>
-<text transform="translate(626,1055)" font-size="200" style="fill:rgb(62, 73, 137)">Ку</text>
-<text transform="translate(30,1032)" font-size="200" style="fill:rgb(62, 74, 137)">Ща</text>
-<text transform="translate(969,582)" font-size="200" style="fill:rgb(35, 136, 142)">CV</text>
-<text transform="translate(530,143)" font-size="193" style="fill:rgb(210, 226, 27)">Бан</text>
-<text transform="translate(1175,143)" font-size="193" style="fill:rgb(66, 190, 113)">Бля</text>
-<text transform="translate(160,145)" font-size="193" style="fill:rgb(37, 133, 142)">DWH</text>
-<text transform="translate(867,143)" font-size="174" style="fill:rgb(226, 228, 24)">Сек</text>
-<text transform="translate(258,396)" font-size="139" style="fill:rgb(70, 51, 127)">Прив</text>
-<text transform="translate(852,1144)" font-size="139" style="fill:rgb(127, 211, 78)">Пинг</text>
-<text transform="translate(131,1169)" font-size="57" style="fill:rgb(162, 218, 55)">Я там письмо написал</text>
-<text transform="translate(47,855) rotate(-90)" font-size="57" style="fill:rgb(236, 229, 27)">Что там по Portmone?</text>
-<text transform="translate(1138,1144)" font-size="45" style="fill:rgb(194, 223, 35)">Там что-то сломалось</text>
-<text transform="translate(571,959) rotate(-90)" font-size="45" style="fill:rgb(71, 46, 124)">Дима Борисов пидорас</text>
-<text transform="translate(139,901)" font-size="34" style="fill:rgb(52, 97, 141)">Я завтра на удалёнке</text>
-<text transform="translate(7,1099)" font-size="34" style="fill:rgb(210, 226, 27)">Там правки по КУАПу</text>
-<text transform="translate(690,173)" font-size="34" style="fill:rgb(253, 231, 37)">Когда на пиво идём?</text>
-<text transform="translate(1437,709) rotate(-90)" font-size="34" style="fill:rgb(248, 230, 33)">Когда SMS отправят?</text>
-<text transform="translate(99,175)" font-size="34" style="fill:rgb(144, 215, 67)">Оно ещё обновляется</text>
-<text transform="translate(1482,705) rotate(-90)" font-size="34" style="fill:rgb(46, 111, 142)">Это всё попередныкы</text>
-<text transform="translate(1663,656) rotate(-90)" font-size="34" style="fill:rgb(137, 213, 72)">Шо у тебя в работе?</text>
-<text transform="translate(1104,173)" font-size="33" style="fill:rgb(41, 121, 142)">Согласуй с Богданом</text>
-<text transform="translate(1270,1169)" font-size="29" style="fill:rgb(65, 68, 135)">Нет ТЗ - результат ХЗ</text>
-<text transform="translate(888,1170)" font-size="29" style="fill:rgb(31, 161, 136)">Шо у тебя по задачам?</text>
-<text transform="translate(608,758) rotate(-90)" font-size="29" style="fill:rgb(41, 175, 127)">Временное - это залог постоянного</text>
-<text transform="translate(588,900)" font-size="27" style="fill:rgb(192, 223, 37)">А можно по-человечески объяснить?</text>
-<text transform="translate(953,1046)" font-size="27" style="fill:rgb(31, 160, 136)">Ты домашку сделал?</text>
-<text transform="translate(1232,557) rotate(-90)" font-size="27" style="fill:rgb(31, 150, 139)">Давай твои покурим</text>
-<text transform="translate(1286,21)" font-size="22" style="fill:rgb(38, 129, 142)">Надо согласовать с Чудаковским</text>
-<text transform="translate(745,926)" font-size="22" style="fill:rgb(132, 212, 75)">Там задача по PreCollection</text>
-<text transform="translate(190,450)" font-size="21" style="fill:rgb(82, 197, 105)">Давайте кондиционер включим</text>
-<text transform="translate(1265,943)" font-size="21" style="fill:rgb(108, 205, 90)">Тексты на согласовании</text>
-<text transform="translate(1265,909)" font-size="21" style="fill:rgb(48, 106, 142)">Банк Александра Белого</text>
-<text transform="translate(947,604)" font-size="21" style="fill:rgb(58, 83, 139)">Давайте по-нормальному</text>
-<text transform="translate(257,968)" font-size="18" style="fill:rgb(41, 123, 142)">Какие ваши доказательства?</text>
-<text transform="translate(1158,477) rotate(-90)" font-size="18" style="fill:rgb(60, 80, 139)">Ну а хули нам, удалёнщикам</text>
-<text transform="translate(1396,731) rotate(-90)" font-size="18" style="fill:rgb(48, 106, 142)">Половина Банка раком стоит</text>
-<text transform="translate(522,307) rotate(-90)" font-size="18" style="fill:rgb(57, 86, 140)">Нужно перезакрепить задачи</text>
-<text transform="translate(858,1002)" font-size="18" style="fill:rgb(72, 26, 108)">Все вопросы после обеда</text>
-<text transform="translate(970,636)" font-size="18" style="fill:rgb(72, 32, 113)">Дима, откуда эти цифры?</text>
-<text transform="translate(273,941)" font-size="18" style="fill:rgb(56, 88, 140)">Что 300? А что приборы?</text>
-<text transform="translate(865,962)" font-size="18" style="fill:rgb(31, 151, 139)">Ура, юристы согласовали</text>
-<text transform="translate(635,27)" font-size="14" style="fill:rgb(162, 218, 55)">Ты с какой целью интересуешься?</text>
-<text transform="translate(643,1123)" font-size="14" style="fill:rgb(155, 217, 60)">Что Вы делали целый час?!</text>
-<text transform="translate(1009,706)" font-size="14" style="fill:rgb(176, 221, 47)">Согласуйте в репозитории</text>
-<text transform="translate(1016,682)" font-size="14" style="fill:rgb(44, 113, 142)">Либо беременна, либо нет</text>
-<text transform="translate(993,656)" font-size="14" style="fill:rgb(68, 2, 86)">Просрочка по кешам в мае</text>
-<text transform="translate(190,1049)" font-size="14" style="fill:rgb(34, 139, 141)">Люди делятся на два типа</text>
-<text transform="translate(891,981)" font-size="14" style="fill:rgb(72, 38, 119)">Мне Яровой сказал</text>
-<text transform="translate(1519,1049)" font-size="14" style="fill:rgb(42, 118, 142)">Кто-то мак будет?</text>
-<text transform="translate(1512,1071)" font-size="14" style="fill:rgb(59, 187, 117)">Ебала жаба гадюку</text>
-<text transform="translate(35,120)" font-size="14" style="fill:rgb(72, 31, 112)">Заявочка в джире</text>
-<text transform="translate(1370,745)" font-size="14" style="fill:rgb(248, 230, 33)">У IT нет ресурса</text>
-<text transform="translate(191,626)" font-size="14" style="fill:rgb(72, 41, 121)">Отчёт непонятный</text>
-<text transform="translate(217,679)" font-size="14" style="fill:rgb(72, 37, 118)">Согласуй с Катей</text>
-<text transform="translate(1535,1095)" font-size="14" style="fill:rgb(31, 148, 140)">Файлики для Пети</text>
-<text transform="translate(1532,166)" font-size="13" style="fill:rgb(66, 190, 113)">Оно не сходится</text>
-<text transform="translate(238,715)" font-size="13" style="fill:rgb(54, 93, 141)">Ты сбрасывался?</text>
-<text transform="translate(1060,25)" font-size="13" style="fill:rgb(51, 98, 141)">Заявочка в РЕПО</text>
-<text transform="translate(1180,428) rotate(-90)" font-size="13" style="fill:rgb(52, 182, 121)">Заявочка в JIRA</text>
-<text transform="translate(1263,1088) rotate(-90)" font-size="13" style="fill:rgb(34, 140, 141)">Где доходность?</text>
-<text transform="translate(550,315) rotate(-90)" font-size="13" style="fill:rgb(112, 207, 87)">Что заказываем?</text>
-<text transform="translate(380,424)" font-size="13" style="fill:rgb(192, 223, 37)">Ну ты там сВПРь</text>
-<text transform="translate(1652,128) rotate(-90)" font-size="12" style="fill:rgb(72, 35, 116)">Виноваты риски</text>
-<text transform="translate(14,1129)" font-size="12" style="fill:rgb(39, 173, 129)">Кофе с молоком</text>
-<text transform="translate(1039,404)" font-size="12" style="fill:rgb(110, 206, 88)">Вика, ещё не 5</text>
-<text transform="translate(1528,112)" font-size="12" style="fill:rgb(59, 82, 139)">Заводим жигуль</text>
-<text transform="translate(437,865)" font-size="12" style="fill:rgb(178, 221, 45)">Комитет будет?</text>
-<text transform="translate(1087,724)" font-size="12" style="fill:rgb(134, 213, 73)">Сейчас пописяю</text>
-<text transform="translate(1154,1096)" font-size="11" style="fill:rgb(176, 221, 47)">ГДЕ ТЗ</text>
-<text transform="translate(757,655)" font-size="11" style="fill:rgb(53, 183, 121)">Дрисня</text>
-<text transform="translate(772,249)" font-size="11" style="fill:rgb(49, 102, 142)">СРОЧНО</text>
-<text transform="translate(1394,315)" font-size="11" style="fill:rgb(197, 224, 33)">10 землекопов</text>
-<text transform="translate(1505,180)" font-size="11" style="fill:rgb(99, 203, 95)">Ищите в анале</text>
-<text transform="translate(208,598)" font-size="11" style="fill:rgb(30, 155, 138)">Дедлайн вчера</text>
-<text transform="translate(1534,81)" font-size="11" style="fill:rgb(181, 222, 43)">Пойдём выйдем</text>
-<text transform="translate(763,869)" font-size="10" style="fill:rgb(103, 204, 92)">Ёбанный стыд</text>
-<text transform="translate(764,807)" font-size="10" style="fill:rgb(189, 223, 38)">Где прозвон?</text>
-<text transform="translate(757,1046) rotate(-90)" font-size="9" style="fill:rgb(32, 146, 140)">Согласовано</text>
-<text transform="translate(1669,239) rotate(-90)" font-size="9" style="fill:rgb(60, 79, 138)">Лотус лежит</text>
-<text transform="translate(309,696)" font-size="9" style="fill:rgb(119, 209, 83)">ГДЕ ПРОДАЖИ</text>
-<text transform="translate(862,853)" font-size="9" style="fill:rgb(76, 194, 108)">Нет доступа</text>
-<text transform="translate(1033,336)" font-size="9" style="fill:rgb(33, 144, 141)">Виноваты IT</text>
-<text transform="translate(603,39)" font-size="9" style="fill:rgb(72, 31, 112)">Отчётов нет</text>
-<text transform="translate(766,295)" font-size="9" style="fill:rgb(253, 231, 37)">Мне холодно</text>
-<text transform="translate(777,748)" font-size="9" style="fill:rgb(186, 222, 40)">Всем привет</text>
-<text transform="translate(809,824)" font-size="9" style="fill:rgb(31, 159, 136)">Правки УДБО</text>
-<text transform="translate(936,441)" font-size="9" style="fill:rgb(71, 17, 100)">ПИДОРАСЫ</text>
-<text transform="translate(580,852)" font-size="9" style="fill:rgb(40, 125, 142)">Где PnL?</text>
-<text transform="translate(1251,959)" font-size="9" style="fill:rgb(39, 127, 142)">У нас ЧП</text>
-<text transform="translate(277,919)" font-size="9" style="fill:rgb(162, 218, 55)">Никополь</text>
-<text transform="translate(732,1072)" font-size="9" style="fill:rgb(119, 209, 83)">2 минуты</text>
-<text transform="translate(103,66)" font-size="9" style="fill:rgb(72, 193, 110)">Согласуйте</text>
-<text transform="translate(15,147)" font-size="9" style="fill:rgb(45, 113, 142)">Это хуйня!</text>
-<text transform="translate(1088,39)" font-size="9" style="fill:rgb(35, 138, 141)">Где отчёты</text>
-<text transform="translate(843,1031)" font-size="9" style="fill:rgb(49, 104, 142)">НАЯБЫВАЮТ</text>
-<text transform="translate(833,1172)" font-size="9" style="fill:rgb(71, 46, 124)">Го курить</text>
-<text transform="translate(1404,118) rotate(-90)" font-size="9" style="fill:rgb(68, 191, 112)">Я пидорас</text>
+<text transform="translate(20152,18095)" font-size="1536" style="fill:rgb(202, 225, 31)">ОК</text>
+<text transform="translate(22376,6932)" font-size="1536" style="fill:rgb(66, 190, 113)">Ку</text>
+<text transform="translate(24304,17212)" font-size="1536" style="fill:rgb(62, 73, 137)">Бан</text>
+<text transform="translate(21728,8452)" font-size="1536" style="fill:rgb(62, 74, 137)">Бля</text>
+<text transform="translate(19872,1356)" font-size="1536" style="fill:rgb(35, 136, 142)">Щас</text>
+<text transform="translate(12400,17599)" font-size="1536" style="fill:rgb(210, 226, 27)">Сек</text>
+<text transform="translate(14720,19196)" font-size="1536" style="fill:rgb(66, 190, 113)">Прив</text>
+<text transform="translate(2040,2372)" font-size="1536" style="fill:rgb(37, 133, 142)">Пинг</text>
+<text transform="translate(1152,14724)" font-size="1536" style="fill:rgb(226, 228, 24)">Я там письмо написал</text>
+<text transform="translate(1048,15919)" font-size="1536" style="fill:rgb(70, 51, 127)">Что там по Portmone?</text>
+<text transform="translate(4064,1188)" font-size="1536" style="fill:rgb(127, 211, 78)">Там что-то сломалось</text>
+<text transform="translate(64,19102)" font-size="1360" style="fill:rgb(162, 218, 55)">Дима Борисов пидорас</text>
+<text transform="translate(7104,2122)" font-size="1232" style="fill:rgb(236, 229, 27)">Я завтра на удалёнке</text>
+<text transform="translate(1002,13396) rotate(-90)" font-size="1232" style="fill:rgb(194, 223, 35)">Методология нечёткая</text>
+<text transform="translate(40,17628)" font-size="1064" style="fill:rgb(71, 46, 124)">Цифры правдоподобные</text>
+<text transform="translate(27450,11389) rotate(-90)" font-size="1064" style="fill:rgb(52, 97, 141)">Там правки по КУАПу</text>
+<text transform="translate(10311,13363) rotate(-90)" font-size="1064" style="fill:rgb(210, 226, 27)">Когда на пиво идём?</text>
+<text transform="translate(18384,18910)" font-size="952" style="fill:rgb(253, 231, 37)">Когда SMS отправят?</text>
+<text transform="translate(15056,16641)" font-size="896" style="fill:rgb(248, 230, 33)">Оно ещё обновляется</text>
+<text transform="translate(18637,11348) rotate(-90)" font-size="896" style="fill:rgb(144, 215, 67)">Это всё попередныкы</text>
+<text transform="translate(2024,16644)" font-size="824" style="fill:rgb(46, 111, 142)">Шо у тебя в работе?</text>
+<text transform="translate(19560,2399)" font-size="712" style="fill:rgb(137, 213, 72)">Согласуй с Богданом</text>
+<text transform="translate(18384,19538)" font-size="640" style="fill:rgb(41, 121, 142)">Можно глупый вопрос</text>
+<text transform="translate(17634,11143) rotate(-90)" font-size="640" style="fill:rgb(65, 68, 135)">Нет ТЗ - результат ХЗ</text>
+<text transform="translate(27765,18072) rotate(-90)" font-size="640" style="fill:rgb(31, 161, 136)">Шо у тебя по задачам?</text>
+<text transform="translate(6224,18151)" font-size="456" style="fill:rgb(41, 175, 127)">Временное - это залог постоянного</text>
+<text transform="translate(10935,10533) rotate(-90)" font-size="456" style="fill:rgb(192, 223, 37)">А можно по-человечески объяснить?</text>
+<text transform="translate(4632,5844)" font-size="456" style="fill:rgb(31, 160, 136)">Ты домашку сделал?</text>
+<text transform="translate(21256,15807)" font-size="456" style="fill:rgb(31, 150, 139)">Давай твои покурим</text>
+<text transform="translate(19223,9410) rotate(-90)" font-size="456" style="fill:rgb(38, 129, 142)">Надо согласовать с Чудаковским</text>
+<text transform="translate(3592,6845)" font-size="456" style="fill:rgb(132, 212, 75)">Там задача по PreCollection</text>
+<text transform="translate(1375,7133) rotate(-90)" font-size="456" style="fill:rgb(82, 197, 105)">Давайте кондиционер включим</text>
+<text transform="translate(19848,14199)" font-size="456" style="fill:rgb(108, 205, 90)">Тексты на согласовании</text>
+<text transform="translate(20208,14671)" font-size="456" style="fill:rgb(48, 106, 142)">Банк Александра Белого</text>
+<text transform="translate(3856,5127)" font-size="456" style="fill:rgb(58, 83, 139)">Давайте по-нормальному</text>
+<text transform="translate(27844,7927) rotate(-90)" font-size="456" style="fill:rgb(41, 123, 142)">Какие ваши доказательства?</text>
+<text transform="translate(3632,6281)" font-size="448" style="fill:rgb(60, 80, 139)">Ну а хули нам, удалёнщикам</text>
+<text transform="translate(19744,15213)" font-size="432" style="fill:rgb(48, 106, 142)">Половина Банка раком стоит</text>
+<text transform="translate(6480,19634)" font-size="416" style="fill:rgb(57, 86, 140)">Нужно перезакрепить задачи</text>
+<text transform="translate(5120,2466)" font-size="416" style="fill:rgb(72, 26, 108)">Там на КУАПе задали вопрос</text>
+<text transform="translate(22856,409)" font-size="416" style="fill:rgb(72, 32, 113)">Все вопросы после обеда</text>
+<text transform="translate(15192,17423)" font-size="416" style="fill:rgb(56, 88, 140)">Дима, откуда эти цифры?</text>
+<text transform="translate(22328,17785)" font-size="416" style="fill:rgb(31, 151, 139)">Что 300? А что приборы?</text>
+<text transform="translate(15208,17826)" font-size="416" style="fill:rgb(162, 218, 55)">Ура, юристы согласовали</text>
+<text transform="translate(10096,16266)" font-size="416" style="fill:rgb(155, 217, 60)">Нужно сойтись с рисками</text>
+<text transform="translate(672,19664)" font-size="352" style="fill:rgb(176, 221, 47)">Ты с какой целью интересуешься?</text>
+<text transform="translate(21600,1664)" font-size="352" style="fill:rgb(44, 113, 142)">Что Вы делали целый час?!</text>
+<text transform="translate(16880,10044) rotate(-90)" font-size="352" style="fill:rgb(68, 2, 86)">Катя, ты письмо смотрела?</text>
+<text transform="translate(13316,13854) rotate(-90)" font-size="352" style="fill:rgb(34, 139, 141)">Нужно сойтись с финансами</text>
+<text transform="translate(13696,13640) rotate(-90)" font-size="352" style="fill:rgb(72, 38, 119)">Согласуйте в репозитории</text>
+<text transform="translate(13330,7157) rotate(-90)" font-size="352" style="fill:rgb(42, 118, 142)">Либо беременна, либо нет</text>
+<text transform="translate(13852,6657) rotate(-90)" font-size="352" style="fill:rgb(59, 187, 117)">Просрочка по кешам в мае</text>
+<text transform="translate(19636,7041) rotate(-90)" font-size="352" style="fill:rgb(72, 31, 112)">Люди делятся на два типа</text>
+<text transform="translate(26704,10154) rotate(-90)" font-size="352" style="fill:rgb(248, 230, 33)">Почему меня нет в копии?</text>
+<text transform="translate(23480,932)" font-size="352" style="fill:rgb(72, 41, 121)">Мне Яровой сказал</text>
+<text transform="translate(21296,11458)" font-size="352" style="fill:rgb(72, 37, 118)">Кто-то мак будет?</text>
+<text transform="translate(3808,9690)" font-size="352" style="fill:rgb(31, 148, 140)">Ебала жаба гадюку</text>
+<text transform="translate(21520,10060)" font-size="352" style="fill:rgb(66, 190, 113)">У IT нет ресурса</text>
+<text transform="translate(4168,11000)" font-size="352" style="fill:rgb(54, 93, 141)">Отчёт непонятный</text>
+<text transform="translate(21352,10856)" font-size="352" style="fill:rgb(51, 98, 141)">Согласуй с Катей</text>
+<text transform="translate(4328,10390)" font-size="352" style="fill:rgb(52, 182, 121)">Файлики для Пети</text>
+<text transform="translate(12272,19660)" font-size="352" style="fill:rgb(34, 140, 141)">Воюем с юристами</text>
+<text transform="translate(21608,8776)" font-size="352" style="fill:rgb(112, 207, 87)">Это всё костыли!</text>
+<text transform="translate(3608,11292)" font-size="352" style="fill:rgb(192, 223, 37)">Похоже на правду</text>
+<text transform="translate(21552,9424)" font-size="352" style="fill:rgb(72, 35, 116)">Оно не сходится</text>
+<text transform="translate(8120,13618)" font-size="352" style="fill:rgb(39, 173, 129)">Ты сбрасывался?</text>
+<text transform="translate(24256,18176)" font-size="352" style="fill:rgb(110, 206, 88)">Заявочка в РЕПО</text>
+<text transform="translate(1632,768)" font-size="352" style="fill:rgb(59, 82, 139)">Заявочка в JIRA</text>
+<text transform="translate(25256,19640)" font-size="352" style="fill:rgb(178, 221, 45)">Где доходность?</text>
+<text transform="translate(21704,13808)" font-size="352" style="fill:rgb(134, 213, 73)">Что заказываем?</text>
+<text transform="translate(944,18148)" font-size="352" style="fill:rgb(176, 221, 47)">Ну ты там сВПРь</text>
+<text transform="translate(1056,294)" font-size="352" style="fill:rgb(53, 183, 121)">Формулы поехали</text>
+<text transform="translate(21816,5372)" font-size="352" style="fill:rgb(49, 102, 142)">Виноваты риски</text>
+<text transform="translate(1720,1084)" font-size="352" style="fill:rgb(197, 224, 33)">Кофе с молоком</text>
+<text transform="translate(3640,9228)" font-size="352" style="fill:rgb(99, 203, 95)">Вика, ещё не 5</text>
+<text transform="translate(21736,4920)" font-size="352" style="fill:rgb(30, 155, 138)">Заводим жигуль</text>
+<text transform="translate(15744,18202)" font-size="352" style="fill:rgb(181, 222, 43)">Комитет будет?</text>
+<text transform="translate(15248,17000)" font-size="352" style="fill:rgb(103, 204, 92)">Сейчас пописяю</text>
+<text transform="translate(21856,10426)" font-size="352" style="fill:rgb(189, 223, 38)">Вот было бы ТЗ</text>
+<text transform="translate(4824,18208)" font-size="352" style="fill:rgb(32, 146, 140)">ГДЕ ТЗ</text>
+<text transform="translate(840,16316)" font-size="352" style="fill:rgb(60, 79, 138)">Дрисня</text>
+<text transform="translate(22544,17032)" font-size="352" style="fill:rgb(119, 209, 83)">СРОЧНО</text>
+<text transform="translate(14189,5518) rotate(-90)" font-size="352" style="fill:rgb(76, 194, 108)">10 землекопов</text>
+<text transform="translate(11040,2492)" font-size="352" style="fill:rgb(33, 144, 141)">Ищите в анале</text>
+<text transform="translate(15584,2436)" font-size="352" style="fill:rgb(72, 31, 112)">Дедлайн вчера</text>
+<text transform="translate(25336,19220)" font-size="352" style="fill:rgb(253, 231, 37)">Пойдём выйдем</text>
+<text transform="translate(9848,16644)" font-size="352" style="fill:rgb(186, 222, 40)">У меня вопрос</text>
+<text transform="translate(296,16412) rotate(-90)" font-size="352" style="fill:rgb(31, 159, 136)">Где зарплата?</text>
+<text transform="translate(22096,9126)" font-size="352" style="fill:rgb(71, 17, 100)">Ёбанный стыд</text>
+<text transform="translate(16128,19528)" font-size="352" style="fill:rgb(40, 125, 142)">Где прозвон?</text>
+<text transform="translate(4136,16960)" font-size="352" style="fill:rgb(39, 127, 142)">Согласовано</text>
+<text transform="translate(25344,16172)" font-size="352" style="fill:rgb(162, 218, 55)">Лотус лежит</text>
+<text transform="translate(14184,13711) rotate(-90)" font-size="352" style="fill:rgb(119, 209, 83)">ГДЕ ПРОДАЖИ</text>
+<text transform="translate(10860,12746) rotate(-90)" font-size="352" style="fill:rgb(72, 193, 110)">Нет доступа</text>
+<text transform="translate(22312,17316)" font-size="352" style="fill:rgb(45, 113, 142)">Виноваты IT</text>
+<text transform="translate(7168,16944)" font-size="352" style="fill:rgb(35, 138, 141)">Отчётов нет</text>
+<text transform="translate(17892,16037) rotate(-90)" font-size="352" style="fill:rgb(49, 104, 142)">Мне холодно</text>
+<text transform="translate(14588,4547) rotate(-90)" font-size="352" style="fill:rgb(71, 46, 124)">Всем привет</text>
+<text transform="translate(9224,4744) rotate(-90)" font-size="352" style="fill:rgb(68, 191, 112)">Правки УДБО</text>
+<text transform="translate(18264,16932)" font-size="352" style="fill:rgb(72, 33, 115)">Нужно пнуть</text>
+<text transform="translate(22968,1304)" font-size="352" style="fill:rgb(61, 77, 138)">ПИДОРАСЫ</text>
+<text transform="translate(5592,1496)" font-size="352" style="fill:rgb(64, 70, 136)">Где PnL?</text>
+<text transform="translate(560,16708)" font-size="352" style="fill:rgb(251, 231, 35)">У нас ЧП</text>
+<text transform="translate(5320,1988)" font-size="352" style="fill:rgb(44, 177, 126)">Никополь</text>
+<text transform="translate(5328,5413)" font-size="352" style="fill:rgb(70, 52, 128)">2 минуты</text>
+<text transform="translate(7816,7136)" font-size="352" style="fill:rgb(38, 129, 142)">Согласуйте</text>
+<text transform="translate(7032,5416)" font-size="352" style="fill:rgb(34, 167, 133)">Это хуйня!</text>
+<text transform="translate(16236,8096) rotate(-90)" font-size="352" style="fill:rgb(45, 112, 142)">Где отчёты</text>
+<text transform="translate(4160,13816)" font-size="352" style="fill:rgb(35, 169, 131)">НАЯБЫВАЮТ</text>
+<text transform="translate(14676,13793) rotate(-90)" font-size="352" style="fill:rgb(72, 38, 119)">DWH тупит</text>
+<text transform="translate(21200,292)" font-size="352" style="fill:rgb(33, 166, 133)">Го курить</text>
+<text transform="translate(1356,12365) rotate(-90)" font-size="352" style="fill:rgb(63, 72, 137)">Я пидорас</text>
+<text transform="translate(22336,18092)" font-size="352" style="fill:rgb(43, 117, 142)">Я главный</text>
+<text transform="translate(784,15560) rotate(-90)" font-size="352" style="fill:rgb(72, 22, 104)">Это факап</text>
+<text transform="translate(14880,2744)" font-size="352" style="fill:rgb(234, 229, 26)">ОК</text>
+<text transform="translate(17016,15804)" font-size="352" style="fill:rgb(139, 214, 70)">Ку</text>
+<text transform="translate(5568,10060)" font-size="352" style="fill:rgb(33, 142, 141)">Бан</text>
+<text transform="translate(1456,1700)" font-size="352" style="fill:rgb(37, 171, 130)">Бля</text>
+<text transform="translate(20232,15764)" font-size="352" style="fill:rgb(43, 117, 142)">Щас</text>
+<text transform="translate(6200,9384)" font-size="352" style="fill:rgb(192, 223, 37)">Сек</text>
+<text transform="translate(8656,7724)" font-size="352" style="fill:rgb(33, 144, 141)">Прив</text>
+<text transform="translate(6640,13804)" font-size="352" style="fill:rgb(34, 139, 141)">Пинг</text>
+<text transform="translate(16572,9559) rotate(-90)" font-size="352" style="fill:rgb(69, 53, 129)">Я там письмо написал</text>
+<text transform="translate(5744,279)" font-size="328" style="fill:rgb(44, 177, 126)">Что там по Portmone?</text>
+<text transform="translate(10579,10115) rotate(-90)" font-size="328" style="fill:rgb(71, 16, 99)">Там что-то сломалось</text>
+<text transform="translate(14760,13747)" font-size="272" style="fill:rgb(178, 221, 45)">Дима Борисов пидорас</text>
+<text transform="translate(1435,10237) rotate(-90)" font-size="272" style="fill:rgb(33, 142, 141)">Я завтра на удалёнке</text>
+<text transform="translate(16584,235)" font-size="272" style="fill:rgb(31, 162, 135)">Методология нечёткая</text>
+<text transform="translate(27896,11189) rotate(-90)" font-size="272" style="fill:rgb(70, 10, 93)">Цифры правдоподобные</text>
+<text transform="translate(21744,5675)" font-size="272" style="fill:rgb(52, 97, 141)">Там правки по КУАПу</text>
+<text transform="translate(4128,14958)" font-size="272" style="fill:rgb(69, 5, 89)">Когда на пиво идём?</text>
+<text transform="translate(17990,7288) rotate(-90)" font-size="272" style="fill:rgb(112, 207, 87)">Когда SMS отправят?</text>
+<text transform="translate(13704,240)" font-size="272" style="fill:rgb(173, 220, 48)">Оно ещё обновляется</text>
+<text transform="translate(11896,14963)" font-size="256" style="fill:rgb(65, 68, 135)">Это всё попередныкы</text>
+<text transform="translate(2496,19341)" font-size="256" style="fill:rgb(72, 27, 109)">Шо у тебя в работе?</text>
+<text transform="translate(10152,227)" font-size="256" style="fill:rgb(69, 56, 130)">Согласуй с Богданом</text>
+<text transform="translate(2288,2600)" font-size="256" style="fill:rgb(52, 182, 121)">Можно глупый вопрос</text>
+<text transform="translate(21688,16027)" font-size="256" style="fill:rgb(37, 133, 142)">Нет ТЗ - результат ХЗ</text>
+<text transform="translate(3064,1418)" font-size="232" style="fill:rgb(40, 125, 142)">Шо у тебя по задачам?</text>
+<text transform="translate(5160,4745)" font-size="224" style="fill:rgb(49, 104, 142)">Временное - это залог постоянного</text>
+<text transform="translate(17121,19757)" font-size="224" style="fill:rgb(80, 196, 106)">А можно по-человечески объяснить?</text>
+<text transform="translate(3632,11563)" font-size="224" style="fill:rgb(229, 228, 25)">Ты домашку сделал?</text>
+<text transform="translate(22224,9705)" font-size="224" style="fill:rgb(221, 227, 24)">Давай твои покурим</text>
+<text transform="translate(17841,12281) rotate(-90)" font-size="224" style="fill:rgb(94, 201, 98)">Надо согласовать с Чудаковским</text>
+<text transform="translate(204,10517) rotate(-90)" font-size="224" style="fill:rgb(248, 230, 33)">Там задача по PreCollection</text>
+<text transform="translate(201,7209) rotate(-90)" font-size="224" style="fill:rgb(41, 121, 142)">Давайте кондиционер включим</text>
+<text transform="translate(3656,10649)" font-size="224" style="fill:rgb(49, 104, 142)">Тексты на согласовании</text>
+<text transform="translate(18841,9086) rotate(-90)" font-size="224" style="fill:rgb(70, 8, 92)">Банк Александра Белого</text>
+<text transform="translate(17145,8713) rotate(-90)" font-size="224" style="fill:rgb(50, 100, 142)">Давайте по-нормальному</text>
+<text transform="translate(8192,19295)" font-size="208" style="fill:rgb(162, 218, 55)">Какие ваши доказательства?</text>
+<text transform="translate(197,2937) rotate(-90)" font-size="208" style="fill:rgb(64, 69, 136)">Ну а хули нам, удалёнщикам</text>
+<text transform="translate(24032,1890)" font-size="192" style="fill:rgb(32, 164, 134)">Половина Банка раком стоит</text>
+<text transform="translate(12400,17786)" font-size="192" style="fill:rgb(86, 198, 103)">Нужно перезакрепить задачи</text>
 </svg>
